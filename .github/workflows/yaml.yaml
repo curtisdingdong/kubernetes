@@ -41,6 +41,6 @@ jobs:
     #if: github.event.repository.fork == false
     if: github.repository_owner == 'encrypter'
     name: Check YAML
-    uses: curtisdingdong/GitHub-Actions/.github/workflows/yaml.yaml@master
+    uses: curtisdingdong/Github-Actions/.github/workflows/yaml.yaml@master
     with:
       debug: ${{ github.event.inputs.debug }}
