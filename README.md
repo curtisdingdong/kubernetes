@@ -1,8 +1,6 @@
 # kubernetes
 
 
-<!-- [![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/GitHub-Actions?logo=github)](https://github.com/HariSekhon/GitHub-Actions/commits/master) -->
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/curtisdingdong/kubernetes?logo=github)](https://github.com/curtisdingdong/kubernetes/commits/master)
 
-[![YAML]
-(https://github.com/curtisdingdong/kubernetes/actions/workflows/yaml.yaml/badge.svg)]
-(https://github.com/curtisdingdong/kubernetes/actions/workflows/yaml.yaml)
+[![Markdown Lint](https://github.com/curtisdingdong/kubernetes/actions/workflows/markdown.yaml/badge.svg)](https://github.com/curtisdingdong/kubernetes/actions/workflows/markdown.yaml)
