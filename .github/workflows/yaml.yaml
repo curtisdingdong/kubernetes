@@ -20,11 +20,12 @@ on:
       - '**/*.yaml'
       - .github/workflows/yaml.yaml
   workflow_dispatch:
-    # inputs:
-    #   debug:
-    #     type: boolean
-    #     required: false
-    #     default: false
+    inputs:
+      debug:
+        description: "for documentation"
+        type: boolean
+        required: false
+        default: false
   schedule:
     - cron: '0 0 * * 1'
 
