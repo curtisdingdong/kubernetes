@@ -51,4 +51,3 @@ jobs:
           submodules: 'false'
       - name: Run mdl
         uses: actionshub/markdownlint@main
-        
