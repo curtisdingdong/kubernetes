@@ -1,6 +1,6 @@
 
 ---
-name: YAML
+name: yamllint.yaml
 
 on:
   push:
@@ -48,4 +48,4 @@ jobs:
         with:
           yamllint_strict: false
           yamllint_comment: true
-          
+
