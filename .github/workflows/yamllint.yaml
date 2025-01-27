@@ -48,4 +48,3 @@ jobs:
         with:
           yamllint_strict: false
           yamllint_comment: true
-
