@@ -1,5 +1,5 @@
 ---
-name: Markdown Lint
+name: markdown.lint
 
 on:
   push:
