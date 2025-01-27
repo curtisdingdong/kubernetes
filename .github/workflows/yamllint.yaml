@@ -1,7 +1,5 @@
-
 ---
 name: yamllint.yaml
-
 on:
   push:
     branches:
@@ -48,3 +46,4 @@ jobs:
         with:
           yamllint_strict: false
           yamllint_comment: true
+
