@@ -4,4 +4,4 @@
 
 [![Markdown Lint](https://github.com/curtisdingdong/kubernetes/actions/workflows/markdown.yaml/badge.svg)](https://github.com/curtisdingdong/kubernetes/actions/workflows/markdown.yaml)
 
-[![Yaml Lint](https://github.com/curtisdingdong/kubernetes/actions/workflows/yaml.yaml/badge.svg)](https://github.com/curtisdingdong/kubernetes/actions/workflows/yaml.yaml)
+[![Yaml Lint](https://github.com/curtisdingdong/kubernetes/actions/workflows/yamllint.yaml/badge.svg)](https://github.com/curtisdingdong/kubernetes/actions/workflows/yamllint.yaml)
