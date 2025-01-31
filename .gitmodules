@@ -1,0 +1,3 @@
+[submodule "github_submodules"]
+	path = github_submodules
+	url = github.com:curtisdingdong/github_submodules.git
